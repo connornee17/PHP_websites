@@ -1,0 +1,5 @@
+guestbookform.php - Input guest info
+
+guestbooksave.php - saves data to a guestbook.txt file
+
+guestbookshow.php - calls data from .txt file and displays in table

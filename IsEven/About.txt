@@ -1,0 +1,1 @@
+This is a simple PHP page that checks if the inputted whole number is even or odd

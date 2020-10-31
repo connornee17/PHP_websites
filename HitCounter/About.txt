@@ -1,0 +1,1 @@
+This php code counts the number of hits the website gets. Can be reset to zero with button press. Stores session vars
